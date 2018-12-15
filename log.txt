@@ -1,0 +1,48 @@
+Dec 15, 2018 3:01:30 PM util.MainTestNG main
+INFO: Logger Name: util.MainTestNG
+Dec 15, 2018 3:01:31 PM util.ExecuteTestCases setup
+INFO: util.ExecuteTestCases   setup() method called
+Dec 15, 2018 3:01:32 PM util.ExcelAction readCapturedObjectProperties
+INFO: testCasePath==D:\Ansh\Selenium-Testing-Automation-Framework-master\TestCases2.xlsx
+Dec 15, 2018 3:01:32 PM util.ExcelAction readCapturedObjectProperties
+INFO: total rows=4
+Dec 15, 2018 3:01:32 PM util.ExcelAction readCapturedObjectProperties
+INFO: SEARCH  CLICK  //a [@id = 'ctl00_IdSparshHeader_g_a4214f27_bb08_407a_ab74_00670cd3e1c1_SB64DCC8_go']/img   XPATH
+Dec 15, 2018 3:02:39 PM util.ExecuteTestCases ie
+INFO: IE launch
+Dec 15, 2018 3:02:39 PM util.ExecuteTestCases setup
+INFO: http://sparshv2/Pages/Home.aspx
+Dec 15, 2018 3:02:39 PM util.ExecuteTestCases regression
+INFO: util.ExecuteTestCases TestCases to be executed    [[Ljava.lang.Object;@289710d9
+Dec 15, 2018 3:02:39 PM util.ExecuteTestCases testSample1
+INFO: util.ExecuteTestCases  @Test method called    TC001
+Dec 15, 2018 3:02:39 PM util.ExecuteTestCases testSample1
+INFO: testSuiteIterate() calling
+Dec 15, 2018 3:02:39 PM util.ExcelAction testSuiteIterate
+INFO: testSuiteIterate() called  TC001
+Dec 15, 2018 3:02:39 PM util.ExcelAction testSuiteIterate
+INFO: columnValue addedd newly numberOfTimesExecution===[Selenium]
+Dec 15, 2018 3:02:39 PM util.ExcelAction testSuiteIterate
+INFO: testCaseExecution==1
+Dec 15, 2018 3:02:39 PM util.ExcelAction readLocators
+INFO: SEARCH
+Dec 15, 2018 3:02:39 PM util.ExcelAction readLocators
+INFO: SEARCH_BOX
+Dec 15, 2018 3:02:39 PM util.ExcelAction readLocators
+INFO: objects{SEARCH_BOX=model.CapturedObjectPropModel@1b835480, CLICK=model.CapturedObjectPropModel@3549bca9}
+Dec 15, 2018 3:02:39 PM util.ExcelAction readLocators
+INFO: namemodel.CapturedObjectPropModel@1b835480
+Dec 15, 2018 3:02:39 PM util.ExcelAction readLocators
+INFO: SEARCH_BOX
+Dec 15, 2018 3:02:39 PM util.ExcelAction readLocators
+INFO: c.getPage()=SEARCH
+Dec 15, 2018 3:02:39 PM util.ExcelAction readLocators
+INFO: locators[ID, ctl00_IdSparshHeader_g_a4214f27_bb08_407a_ab74_00670cd3e1c1_SB64DCC8_InputKeywords]
+Dec 15, 2018 3:02:39 PM util.ExcelAction readLocators
+INFO: size2
+Dec 15, 2018 3:02:39 PM util.ExcelAction testSuiteIterate
+INFO: methodType=ID
+Dec 15, 2018 3:02:39 PM util.ExcelAction testSuiteIterate
+INFO: objectLocators as name=ctl00_IdSparshHeader_g_a4214f27_bb08_407a_ab74_00670cd3e1c1_SB64DCC8_InputKeywords
+Dec 15, 2018 3:02:39 PM actions.MethodType methodExecutor
+INFO: methodType= IDobjectLocators=ctl00_IdSparshHeader_g_a4214f27_bb08_407a_ab74_00670cd3e1c1_SB64DCC8_InputKeywordsactionType=enterTextdata= Selenium
